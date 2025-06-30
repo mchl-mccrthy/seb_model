@@ -8,8 +8,8 @@ addpath([foParent '/src'])
 addpath([foParent '/inputs'])
 
 % Specify meteorological and UDG data filenames
-fnAwsData = 'inputs/arolla_aws.csv';
-fnUdgData = 'inputs/arolla_udg.csv';
+fnAwsData = 'inputs/synth_aws.csv';
+fnUdgData = 'inputs/synth_udg.csv';
 
 % Specify debris properties
 debh = 0.06; % Debris thickness (m)
