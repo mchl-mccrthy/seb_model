@@ -8,7 +8,7 @@ Author: Michael McCarthy (michael.mccarthy@wsl.ch)
 The model is set up and run with the script [src/run_seb.m](src/run_seb.m). 
 
 ## Input data 
-Example input data are stored in the folder [/inputs](/inputs)
+Some synthetic input data are stored in the folder as an example [/inputs](/inputs).
 
 ## Output data
 Running the model will produce output data in the MATLAB terminal, which can be saved according to the user's preferences.
