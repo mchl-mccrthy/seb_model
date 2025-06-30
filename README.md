@@ -18,6 +18,8 @@ Oerlemans, J. (2001). Glaciers and climate change. CRC Press.
 
 Reid, T. D., & Brock, B. W. (2010). An energy-balance model for debris-covered glaciers including heat conduction through the debris layer. Journal of Glaciology, 56(199), 903-916.
 
+Atkinson, K. E., & Han, W. (2004). Elementary numerical analysis (3rd ed.). New York: Wiley.
+
 ## Referencing the model
 The model can be referenced e.g., in APA format as follows.
 
